@@ -63,11 +63,11 @@ Initialize Repository and decide whether the repository will be public (visible 
 
 Opt to add a README file, which helps to provide initial information about the project making it easier for others with no tech background to get to understand your project.
 
-.gitignore: Choose to include a .gitignore file to specify which files Git should ignore.
+You can choose to include a .gitignore file to specify which files Git should ignore.
 
-License: Optionally, add a license to define the legal use of the project.
+Optionally, you can also add a license to define the legal use of the project.
 
-Important Decisions:
+**Important Decisions**
 
 Repository Visibility: Deciding between a public or private repository.
 
